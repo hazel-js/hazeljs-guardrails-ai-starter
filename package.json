@@ -11,10 +11,10 @@
     "lint:fix": "eslint \"src/**/*.ts\" --fix"
   },
   "dependencies": {
-    "@hazeljs/ai": "file:../hazeljs/packages/ai",
-    "@hazeljs/config": "file:../hazeljs/packages/config",
-    "@hazeljs/core": "file:../hazeljs/packages/core",
-    "@hazeljs/guardrails": "file:../hazeljs/packages/guardrails",
+    "@hazeljs/ai": "0.2.0-beta.51",
+    "@hazeljs/config": "0.2.0-beta.51",
+    "@hazeljs/core": "0.2.0-beta.51",
+    "@hazeljs/guardrails": "0.2.0-beta.51",
     "dotenv": "^16.4.5",
     "reflect-metadata": "^0.2.2"
   },
